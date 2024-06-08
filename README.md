@@ -3,7 +3,7 @@
 </div>
 
 ```math
-\ce{$\unicode[
+\ce{$\unicode[goombafont;
 body {
   background: #333;
 }
